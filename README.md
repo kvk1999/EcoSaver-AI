@@ -25,7 +25,6 @@ The goal is to make homes **smarter, greener, and more energy efficient**.
 
 ## 🏗️ System Architecture
 
-```
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f08a335-158c-44b9-a334-4a26350e95b5" />
 
