@@ -27,7 +27,7 @@ The goal is to make homes **smarter, greener, and more energy efficient**.
 
 ```
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dda2e3e3-4e36-4cbe-be3a-2fb62b6dc4ab" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f08a335-158c-44b9-a334-4a26350e95b5" />
 
 ---
 
