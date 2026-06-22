@@ -69,7 +69,7 @@ Chat with an AI agent to receive personalized recommendations and energy-saving 
 
 ### Dashboard
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](public/dashboard.png)
 
 ### AI Energy Assistant
 
