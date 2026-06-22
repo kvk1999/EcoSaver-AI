@@ -71,9 +71,9 @@ Chat with an AI agent to receive personalized recommendations and energy-saving 
 
 ![Dashboard Screenshot](public/dashboard.png)
 
-### AI Energy Assistant
+### AI Copilot
 
-![AI Assistant](images/assistant.png)
+![AI Assistant](public/copilot.png)
 
 ---
 
