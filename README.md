@@ -1,6 +1,6 @@
 # ⚡ EcoSaver AI: An AI-Powered Smart Home Energy Saver Agent
 
-![EcoSaver AI Banner](images/banner.png)
+![EcoSaver AI Banner](public/banner.png)
 
 **Subtitle:** Helping households monitor energy use, predict bills, reduce carbon emissions, and save money with AI-powered insights.
 
