@@ -1,6 +1,7 @@
 # ⚡ EcoSaver AI: An AI-Powered Smart Home Energy Saver Agent
 
-![EcoSaver AI Banner](public/banner.png)
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6a6ad4b3-93ad-499a-8843-ab4750b555cb" />
+
 
 **Subtitle:** Helping households monitor energy use, predict bills, reduce carbon emissions, and save money with AI-powered insights.
 
@@ -24,9 +25,8 @@ The goal is to make homes **smarter, greener, and more energy efficient**.
 
 ## 🏗️ System Architecture
 
-```
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dda2e3e3-4e36-4cbe-be3a-2fb62b6dc4ab" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f08a335-158c-44b9-a334-4a26350e95b5" />
 
 ---
 
@@ -69,11 +69,11 @@ Chat with an AI agent to receive personalized recommendations and energy-saving 
 
 ### Dashboard
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](public/dashboard.png)
 
-### AI Energy Assistant
+### AI Copilot
 
-![AI Assistant](images/assistant.png)
+![AI Assistant](public/copilot.png)
 
 ---
 
